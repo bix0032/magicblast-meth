@@ -52,4 +52,3 @@ samtools
 
 Special thanks to [bwa-meth](https://github.com/brentp/bwa-meth) because some of the codes were adapted from it. 
 
-# magicblast-meth
