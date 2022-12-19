@@ -1,0 +1,26 @@
+name: env4mbmeth
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex
+  - bzip2
+  - ca-certificates
+  - certifi
+  - libffi
+  - libgcc-ng
+  - libstdcxx-ng
+  - ncurses
+  - openssl
+  - pip
+  - python
+  - readline
+  - setuptools
+  - sqlite
+  - tk
+  - toolshed
+  - wheel
+  - xz
+  - zlib
+
