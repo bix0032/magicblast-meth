@@ -34,6 +34,9 @@ mbmeth.py magicblast -r $REF -r1 some_R1.fastq.gz -r2 some_R2.fastq.gz > some.ou
 will create `some.output.bam` and `some.output.bam.bai`.
 To align single end-reads, specify only 1 file: `-r1 some_read.fastq.gz`
 
+After mapping the reads to NCBI nt database, you can use `blastdbcmd` to extract the 
+taxonomy of the hits at different levels (%S for scientific name).
+
 ## Installation
 
 ```
